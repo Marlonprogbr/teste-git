@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
             height: 150,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.all(Radius.circular(20)),
-              color: Colors.green
+              color: Colors.red
             ),
           ),
         ),
